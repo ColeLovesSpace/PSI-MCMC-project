@@ -7,6 +7,8 @@ For this assignment, we will look at the efficiency (convergence speed) for four
 * Metropolis-Hastings with correlated Gaussian jumps
 * the Affine-invariant ensemble sampler
 
+HELLO IS THIS HERE
+
 To start, please
 * On the Github site, please *fork* this repository (hit the `Fork` button on the top-right of this page)
 * Once Github has forked it (created a copy of this repository for you), under the `Code` button, copy the SSH URL
